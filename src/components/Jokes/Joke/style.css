@@ -1,0 +1,7 @@
+.joke, .joke > p {
+    margin-top: 10px;
+}
+
+.joke:nth-child(even) {
+    background-color: lightgray;
+}
