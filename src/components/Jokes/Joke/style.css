@@ -5,3 +5,11 @@
 .joke:nth-child(even) {
     background-color: lightgray;
 }
+
+.upvote {
+    color: blue;
+}
+
+.downvote {
+    color: red;
+}
